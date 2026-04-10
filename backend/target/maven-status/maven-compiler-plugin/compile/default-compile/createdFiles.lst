@@ -1,0 +1,8 @@
+com\stackit\controller\StackController.class
+com\stackit\repository\TechnologyRepository.class
+com\stackit\service\DataSeeder.class
+com\stackit\StackItApplication.class
+com\stackit\repository\StackRepository.class
+com\stackit\model\Stack.class
+com\stackit\controller\TechnologyController.class
+com\stackit\model\Technology.class
