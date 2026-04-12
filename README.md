@@ -128,3 +128,22 @@ The core innovation includes:
 
 > Add your UI screenshots here  
 > Example:
+
+
+
+---
+
+## 🧑‍💻 Author
+
+** Yash Raj **  
+---
+
+## 📄 License
+
+This project is for academic purposes.
+
+---
+
+## ⭐ Final Note
+
+StackIt Tracker is more than a tracker — it's your **AI-powered developer companion**.
